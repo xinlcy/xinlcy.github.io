@@ -444,7 +444,7 @@ body {
   color: #363533;
   background-color: #e2e0de;
   font-size: 14px;
-  font-family: "Menlo", "Meslo LG", monospace;
+  font-family: "微软雅黑", "georgia", monospace;
   font-weight: 400;
   line-height: 1.725;
   text-rendering: geometricPrecision;
@@ -1320,7 +1320,7 @@ article .content .caption {
   border-bottom: 1px solid #666;
 }
 pre {
-  font-family: "Menlo", "Meslo LG", monospace;
+  font-family: "微软雅黑", "georgia", monospace;
   font-size: 13px;
   padding: 10px 15px;
   padding-bottom: 0;
@@ -1342,7 +1342,7 @@ pre code {
   padding: 0;
 }
 .highlight {
-  font-family: "Menlo", "Meslo LG", monospace;
+  font-family: "微软雅黑", "georgia", monospace;
   background: #302d2a;
   -webkit-border-radius: 4px;
   border-radius: 4px;
